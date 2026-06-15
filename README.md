@@ -3,7 +3,7 @@
 
 <p align="center">
   LangGraph workflows · RAG systems · Claude &amp; OpenAI integrations — <b>designed, built, and shipped to the cloud.</b><br/>
-  Based in Canada 🇨🇦 (Central Time) · working with clients worldwide.
+  
 </p>
 
 <p align="center">
