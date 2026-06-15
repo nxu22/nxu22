@@ -9,7 +9,7 @@
   <a href="https://nanxu.site"><img src="https://img.shields.io/badge/Portfolio-nanxu.site-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://caseflowmb.site"><img src="https://img.shields.io/badge/Live_Demo-CaseFlow_MB-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="CaseFlow MB"/></a>
   <!-- TODO: replace with your real LinkedIn URL -->
-  <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/n-xu"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
