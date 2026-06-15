@@ -15,9 +15,9 @@
 
 ---
 
-### ⭐ See my work live — not just screenshots
+### ⭐ See my work live 
 
-Most AI demos break the moment you click them. **[CaseFlow MB](https://caseflowmb.site)** is a real, deployed product you can open right now: an AI agent that reads case details, looks up the relevant rules, finds similar past cases, and drafts a document — with a human approval step before anything is finalized. It runs on AWS with a real database, login, and a clean web UI.
+**[CaseFlow MB](https://caseflowmb.site)** is a real, deployed product you can open right now: an AI agent that reads case details, looks up the relevant rules, finds similar past cases, and drafts a document — with a human approval step before anything is finalized. It runs on AWS with a real database, login, and a clean web UI.
 
 > 👉 **Open it:** [caseflowmb.site](https://caseflowmb.site) — this is the standard I hold every project to.
 
