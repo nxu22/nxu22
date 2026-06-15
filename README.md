@@ -1,26 +1,72 @@
 <h1 align="center">Hi, I'm Nan 👋</h1>
-<h3 align="center">AI Agent Developer · Full-Stack Engineer </h3>
+<h3 align="center">I build production-ready AI agents & LLM apps for startups and teams</h3>
 
 <p align="center">
-  I build <b>production</b> AI agents — not notebooks. LangGraph workflows, RAG systems, and MCP servers, shipped behind real backends and deployed on AWS.
+  LangGraph workflows · RAG systems · Claude &amp; OpenAI integrations — <b>designed, built, and shipped to the cloud.</b><br/>
+  Based in Canada 🇨🇦 (Central Time) · working with clients worldwide.
 </p>
 
 <p align="center">
+  <a href="https://caseflowmb.site"><img src="https://img.shields.io/badge/▶_Try_My_Live_App-CaseFlow_MB-16A34A?style=for-the-badge" alt="Live demo"/></a>
   <a href="https://nanxu.site"><img src="https://img.shields.io/badge/Portfolio-nanxu.site-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://caseflowmb.site"><img src="https://img.shields.io/badge/Live_Demo-CaseFlow_MB-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="CaseFlow MB"/></a>
-  <!-- TODO: replace with your real LinkedIn URL -->
+  <!-- TODO: paste your Upwork profile URL between the quotes below -->
+  <a href="https://www.upwork.com/freelancers/YOUR-UPWORK-ID"><img src="https://img.shields.io/badge/Hire_me_on-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
   <a href="https://www.linkedin.com/in/n-xu"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
 
-### 🚀 About Me
+### ⭐ See my work live — not just screenshots
 
-- 🤖 I design and ship **agentic AI systems** — LangGraph state machines, human-in-the-loop workflows, RAG pipelines, and MCP tool servers.
-- 🧩 Full-stack: I take a system from **API → backend → frontend → cloud deployment**, not just the model layer.
-- ☁️ Comfortable on **AWS** (EC2 / RDS / S3), **Docker**, and CI/CD for AI workloads.
-- 🌏 Native **Mandarin** speaker, working in English & learning French — happy with international clients.
-- 🎓 Full-Stack Web Dev diploma (RRC Polytech) + B.S. Computer Science (in progress, WGU).
+Most AI demos break the moment you click them. **[CaseFlow MB](https://caseflowmb.site)** is a real, deployed product you can open right now: an AI agent that reads case details, looks up the relevant rules, finds similar past cases, and drafts a document — with a human approval step before anything is finalized. It runs on AWS with a real database, login, and a clean web UI.
+
+> 👉 **Open it:** [caseflowmb.site](https://caseflowmb.site) — this is the standard I hold every project to.
+
+---
+
+### 💡 Why clients work with me
+
+- **I ship things that run in production** — real backends, real deployments, real users. Not notebooks that only work on my laptop.
+- **End-to-end ownership** — I take a project from idea → API → backend → frontend → cloud, so you don't need to coordinate five people.
+- **Clear, responsive communication** — I work in North American hours (Central Time) and keep you updated without you having to chase me.
+- **Proof you can click** — a live demo, a portfolio, and open-source code, all linked below.
+
+---
+
+### 💼 What I can build for you
+
+- 🤖 **AI agents & automated workflows** — multi-step assistants that take real actions, with human approval where it matters
+- 🔍 **"Chat with your documents" (RAG)** — accurate answers from your own files, with sources cited
+- 🔌 **LLM integration** — Claude & OpenAI wired into your product, app, or internal tools
+- 🧰 **MCP servers & custom tools** — connect your data and systems to AI assistants
+- ☁️ **Backend & deployment** — FastAPI services, databases, Dockerized and shipped to AWS
+
+<p align="center">
+  <b>✅ Available now for freelance & contract work.</b><br/>
+  <a href="https://nanxu.site"><img src="https://img.shields.io/badge/💬_Let's_talk_about_your_project-2563EB?style=for-the-badge" alt="Contact"/></a>
+</p>
+
+---
+
+### 📌 Featured projects
+
+**🏛️ CaseFlow MB — Agentic case-management SaaS**  ·  [Live](https://caseflowmb.site) · [Code](https://github.com/nxu22/CaseFlow-MB)
+A four-node **LangGraph** workflow (extract → look up rules → find similar cases → draft intake) with **human-in-the-loop** approval, state persistence, a **FastMCP** server exposing 5 tools, JWT auth, and a Next.js approval UI. Deployed on AWS (EC2 / RDS / S3, Dockerized).
+`LangGraph` · `FastAPI` · `MCP` · `Next.js` · `AWS`
+
+**📚 BuildRight — RAG pipeline**  ·  [Code](https://github.com/nxu22/Buildright_construction)
+Document-grounded Q&A over a knowledge base using **ChromaDB + FastAPI + Claude API**, with chunking, retrieval, and cited answers.
+`RAG` · `ChromaDB` · `Claude API` · `FastAPI`
+
+**🦌 WildWatch — Multimodal vision agent**
+A perceive → decide → act pipeline for wildlife camera analysis using **OpenCV + AWS Rekognition + Claude Vision**, with an eval harness reporting precision / recall / F1. *Code walkthrough available on request.*
+`Computer Vision` · `Claude Vision` · `AWS Rekognition` · `Evals`
+
+**🛍️ Strange Light — Full-stack e-commerce**  ·  [Code](https://github.com/nxu22/StrangeLight)
+A storefront built with **Supabase** and **Stripe** payments — auth, product catalog, cart, and checkout.
+`Next.js` · `Supabase` · `Stripe`
+
+> 👉 More on my portfolio: **[nanxu.site](https://nanxu.site)** · [all repos](https://github.com/nxu22?tab=repositories)
 
 ---
 
@@ -59,62 +105,11 @@
 
 ---
 
-### 📌 Featured Projects
+### 📫 Get in touch
 
-**🏛️ CaseFlow MB — Agentic case-management SaaS**  ·  [Live](https://caseflowmb.site) · [Code](https://github.com/nxu22/CaseFlow-MB)
-A four-node **LangGraph** workflow (extract → look up rules → find similar cases → draft intake) with **human-in-the-loop** approval, `PostgresSaver` state persistence, a **FastMCP** server exposing 5 tools, JWT auth, and a Next.js approval UI. Deployed on AWS (EC2 / RDS / S3, Dockerized).
-`LangGraph` · `FastAPI` · `MCP` · `Next.js` · `AWS`
+- ▶️ **Try my live app** — [caseflowmb.site](https://caseflowmb.site)
+- 🌐 **Portfolio** — [nanxu.site](https://nanxu.site)
+- 💼 **Upwork** — *add your profile URL*
+- 🔗 **LinkedIn** — [linkedin.com/in/n-xu](https://www.linkedin.com/in/n-xu)
 
-**📚 BuildRight — RAG pipeline**  ·  [Code](https://github.com/nxu22/Buildright_construction)
-Document-grounded Q&A over a knowledge base using **ChromaDB + FastAPI + Claude API**, with chunking, retrieval, and cited answers.
-`RAG` · `ChromaDB` · `Claude API` · `FastAPI`
-
-**🛍️ Strange Light — Full-stack e-commerce**  ·  [Code](https://github.com/nxu22/StrangeLight)
-A storefront built with **Supabase** and **Stripe** payments — auth, product catalog, cart, and checkout.
-`Next.js` · `Supabase` · `Stripe`
-
-**🦌 WildWatch — Multimodal vision agent**  ·  *add repo link*
-A perceive → decide → act pipeline for wildlife camera analysis using **OpenCV + AWS Rekognition + Claude Vision**, with an eval harness reporting precision / recall / F1.
-`Computer Vision` · `Claude Vision` · `AWS Rekognition` · `Evals`
-
-> 👉 See all projects on my portfolio: **[nanxu.site](https://nanxu.site)** · [all repos](https://github.com/nxu22?tab=repositories)
-
----
-
-### 💼 What I Can Build For You
-
-I help startups and teams ship **AI features that actually run in production** — not proofs of concept that die in a notebook.
-
-- 🤖 **AI agents & workflows** — multi-step LangGraph / LangChain systems with tool use and human-in-the-loop
-- 🔍 **RAG & knowledge systems** — chat-over-your-docs with retrieval, citations, and ChromaDB / vector search
-- 🔌 **LLM API integration** — Claude & OpenAI wired into your backend, with solid prompt engineering
-- 🧰 **MCP servers & tooling** — expose your data and actions to AI assistants
-- ☁️ **Backend & deployment** — FastAPI services, PostgreSQL, Dockerized and shipped to AWS
-
-<p align="center">
-  <b>Available for freelance & contract work.</b><br/>
-  <a href="https://nanxu.site"><img src="https://img.shields.io/badge/💬_Let's_build_something-Hire_Me-2563EB?style=for-the-badge" alt="Hire me"/></a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxu22&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nxu22&hide_border=true&theme=tokyonight" alt="GitHub streak"/>
-</p>
-
----
-
-### 📫 Get in Touch
-
-- 🌐 Portfolio — **[nanxu.site](https://nanxu.site)**
-- 💼 LinkedIn — *(https://www.linkedin.com/in/n-xu/)*
-
-
-<p align="center"><i>Open to freelance & contract AI engineering work.</i></p>
+<p align="center"><i>Have a project in mind? Send me a message — I usually reply the same day.</i></p>
