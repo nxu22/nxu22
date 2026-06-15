@@ -101,7 +101,7 @@ I help startups and teams ship **AI features that actually run in production** �
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nxu22&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats"/>
+  
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxu22&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
 </p>
 
@@ -114,7 +114,7 @@ I help startups and teams ship **AI features that actually run in production** �
 ### 📫 Get in Touch
 
 - 🌐 Portfolio — **[nanxu.site](https://nanxu.site)**
-- 💼 LinkedIn — *add your URL*
-- 📧 Email — *add your email*
+- 💼 LinkedIn — *(https://www.linkedin.com/in/n-xu/)*
+
 
 <p align="center"><i>Open to freelance & contract AI engineering work.</i></p>
