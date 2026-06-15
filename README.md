@@ -10,7 +10,6 @@
   <a href="https://caseflowmb.site"><img src="https://img.shields.io/badge/▶_Try_My_Live_App-CaseFlow_MB-16A34A?style=for-the-badge" alt="Live demo"/></a>
   <a href="https://nanxu.site"><img src="https://img.shields.io/badge/Portfolio-nanxu.site-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <!-- TODO: paste your Upwork profile URL between the quotes below -->
-  <a href="https://www.upwork.com/freelancers/YOUR-UPWORK-ID"><img src="https://img.shields.io/badge/Hire_me_on-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
   <a href="https://www.linkedin.com/in/n-xu"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
