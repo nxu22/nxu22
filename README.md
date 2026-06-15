@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alex 👋</h1>
-<h3 align="center">AI Agent Developer · Full-Stack Engineer · Winnipeg, Canada 🇨🇦</h3>
+<h3 align="center">AI Agent Developer · Full-Stack Engineer </h3>
 
 <p align="center">
   I build <b>production</b> AI agents — not notebooks. LangGraph workflows, RAG systems, and MCP servers, shipped behind real backends and deployed on AWS.
