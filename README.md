@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Nan 👋</h1>
-<h3 align="center">I build production AI agents & automation that prioritize accuracy and safety over flashy demos</h3>
+<h3 align="center">I build production AI agents & automation that prioritize accuracy and safety </h3>
 
 <p align="center">
-  Answers grounded in real data, with cited sources. Guardrails and human-in-the-loop review where the stakes are high, so the AI never acts unilaterally — because in production, <b>being wrong quietly is worse than saying "I'm not sure."</b> Deployed to the cloud, not left as a demo.
+  Answers grounded in real data, with cited sources. Guardrails and human-in-the-loop review where the stakes are high, so the AI never acts unilaterally — because in production, <b>being wrong quietly is worse than saying "I'm not sure."</b> Deployed to the cloud
 </p>
 
 <p align="center">
